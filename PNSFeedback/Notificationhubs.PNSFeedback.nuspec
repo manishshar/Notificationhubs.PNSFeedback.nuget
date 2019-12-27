@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Notificationhubs.PNSFeedback</id>
+    <version>1.0.3</version>
+    <title>Azure PNS Feedback Notification hub to CSV</title>
+    <authors>manishshar</authors>
+    <owners>manishshar</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>This will get PNS Feedback details from Azure Notification hub and export to CSV format</description>
+    <releaseNotes>This will get PNS Feedback details from Azure Notification hub and export to CSV format</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Azure Notification hub PNS Feedback</tags>
+  </metadata>
+</package>
